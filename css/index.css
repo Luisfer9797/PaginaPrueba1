@@ -1,0 +1,30 @@
+body {
+	background-color: #e0f5fa;
+	border: rgb(228, 129, 211) 3px;
+	padding: 8px;
+}
+
+#yo {
+	display: inline-block;
+	border: solid;
+	height: 350px;
+}
+
+	#yo img {
+		max-height: 100%;
+		max-width: 100%;
+	}
+
+#nombre {
+	color: green;
+	border: 10px solid #f338f9;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 25%;
+}
+
+legend {
+	border: red 1px;
+	border-radius: 15px;
+	background-color: #e7ade9;
+}
